@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Fullstack+%F0%9F%92%BB;Apaixonado+por+Clean+Code+e+boa+arquitetura+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-
 ---
 
 🎯 **Desenvolvedor Fullstack** com 4 anos de estrada, graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Desenvolvimento Ágil e com extensão em Arquitetura de Software.
@@ -19,7 +18,7 @@
 
 ---
 
-### 🚀 Tecnologias que fazem meu coração bater mais forte:
+### 🚀 Tecnologias que domino:
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
@@ -62,4 +61,3 @@
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" alt="Outro gif engraçadinho" />
 </p>
 
-<p align="center"><strong>“Debug com café.” ☕🚀</strong></p>
