@@ -8,13 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Fullstack+%F0%9F%92%BB;Apaixonado+por+Clean+Code+e+boa+arquitetura+%F0%9F%92%A1;Cloud+%7C+UI%2FUX+%7C+M%C3%BAsico+%F0%9F%8E%B5" alt="Typing SVG" />
 </p>
 
+
 ---
 
 🎯 **Desenvolvedor Fullstack** com 4 anos de estrada, graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Desenvolvimento Ágil e com extensão em Arquitetura de Software.
 
-☁️ No dia a dia, mergulho de cabeça em backend, frontend, UI/UX e cloud — sempre buscando soluções performáticas, elegantes e limpinhas.
+☁️ No dia a dia, mergulho de cabeça em backend, frontend, UI/UX e cloud — sempre buscando soluções performáticas, elegantes e limpas.
 
-🎵 Fora das linhas de código, sou **músico e compositor**, porque a criatividade aqui roda em **multithread**.
+🎵 Fora das linhas de código, sou **músico e compositor**.
 
 ---
 
@@ -39,32 +40,20 @@
 
 ---
 
-### 📫 Onde me encontrar (sem stalk, hein? 👀)
+### 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luan-s-calais-186104217/)
 - 💻 GitHub: [@LuanCalais](https://github.com/luanscalais)
 
 ---
 
-### 📊 Status no modo tryhard
+### 📊 Status 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luanscalais&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanCalais&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luanscalais&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Snake funcionando lindamente:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanCalais&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -73,4 +62,4 @@
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" alt="Outro gif engraçadinho" />
 </p>
 
-<p align="center"><strong>“Code com amor, debug com café.” ☕🚀</strong></p>
+<p align="center"><strong>“Debug com café.” ☕🚀</strong></p>
