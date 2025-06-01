@@ -53,18 +53,6 @@
 
 ---
 
-### 🐍 Snake — suave como um fluxo contínuo
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="260" alt="calm waves gif" />
 </p>
