@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Fullstack+%E2%9A%A1;Arquitetura+limpa+%7C+UI%2FUX+%7C+Cloud+%7C+M%C3%BAsica+para+o+fluxo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=0ea5e9&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Fullstack+%E2%9A%A1;Arquitetura+limpa+%7C+UI%2FUX+%7C+Cloud" alt="Typing SVG" />
 </p>
 
 ---
 
-🎯 **Desenvolvedor Fullstack** com 4 anos de experiência. Formado em ADS, pós-graduado em metodologias ágeis e com extensão em arquitetura de software.  
+🎯 **Desenvolvedor Fullstack** com 4 anos de experiência. Formado em ADS, pós-graduado em desenvolvimento de software com metodologias ágeis e uma extensão universitária em arquitetura de software.  
 
 🧭 Acredito que boas soluções nascem da junção entre lógica, estética e clareza.  
 
@@ -38,7 +38,7 @@
 ### 📫 Onde me encontrar:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luan-s-calais-186104217/)
-- 💻 GitHub: [@LuanCalais](https://github.com/luanscalais)
+- 💻 GitHub: [@LuanCalais](https://github.com/LuanCalais)
 
 ---
 
