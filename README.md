@@ -56,5 +56,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="260" alt="calm waves gif" />
 </p>
-
-<p align="center"><strong>“Simplicidade não é falta de ambição, é clareza de propósito.” 🌱</strong></p>
