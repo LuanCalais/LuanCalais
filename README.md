@@ -1,22 +1,20 @@
-<h1 align="center">Olá! Eu sou o Luan Sakashita Calais 👋</h1>
+<h1 align="center">Fala aí! Eu sou o Luan Sakashita Calais 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Fullstack;Apaixonado+por+Clean+Code+e+boa+arquitetura;Cloud+%7C+UI%2FUX+%7C+M%C3%BAsico+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Fullstack+%F0%9F%92%BB;Viciado+em+Clean+Code+e+boa+arquitetura+%F0%9F%92%A1;Cloud+%7C+UI%2FUX+%7C+M%C3%BAsico+nas+horas+vagas+%F0%9F%8E%B5" alt="Typing SVG" />
 </p>
 
 ---
 
-🎯 **Desenvolvedor Fullstack** com 4 anos de experiência, graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Desenvolvimento de Software com Metodologias Ágeis e com extensão em Arquitetura de Software.
-
-☁️ Atuo com backend, frontend, tenho conhecimento em UI/UX e cloud — buscando sempre soluções performáticas, elegantes e com código limpo.
-
-🎵 Além da tecnologia, também sou **músico e compositor**, conectando lógica e criatividade em tudo que faço.
+🎯 **Desenvolvedor Fullstack** com 4 anos de experiência, graduado em Análise e Desenvolvimento de Sistemas, pós em Desenvolvimento Ágil e extensão em Arquitetura de Software.  
+☁️ Trabalho com backend, frontend, cloud e UI/UX — sempre buscando aquele combo de **performance + elegância + código limpo**.  
+🎵 Também sou **músico e compositor**, porque nem só de código vive o homem, né?
 
 ---
 
-### 🚀 Tecnologias que eu domino:
+### 🚀 Tecnologias que me deixam animado:
 
-<div style="display: flex; flex-wrap: wrap;">
+<div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/-VueJs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff" />
@@ -35,24 +33,30 @@
 
 ---
 
-### 📫 Onde me encontrar:
+### 📫 Bora trocar uma ideia?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luan-s-calais-186104217/)
 - 💻 GitHub: [@LuanCalais](https://github.com/luanscalais)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Status do Jiraya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanCalais&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luanscalais&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuanCalais&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luanscalais&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
+### 🐍 Contribution Snake em movimento (agora funciona!):
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/LuanCalais/LuanCalais/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
