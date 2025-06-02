@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Luan Sakashita Calais ☀️</h1>
+<h1 align="center">Olá, me chamo Luan Sakashita Calais ☀️</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="320" alt="relaxing mountain gif" />
