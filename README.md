@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Luan Sakashita Calais ☀️</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN6dGE4ZmZqOHN6OGE4ZmZqOHN6OGE4ZmZqOHN6OGE4ZmZqOHN6OGE4ZmZqOHN6OGE4ZmZqOA/giphy.gif" width="400" alt="coding animation" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="320" alt="relaxing mountain gif" />
 </p>
 
 <p align="center">
